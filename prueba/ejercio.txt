@@ -1,0 +1,15 @@
+Definir num1, num2, resultado Como Real
+     
+
+Escribir “Digita un numero”
+     Leer num1
+     Escribir “Digite otro numero”
+     Leer num2
+  
+     Si num2 = 0 Entonces
+                 	Escribir “ERROR”                 
+                SiNo 
+		resultado = num1/num2 
+                	Escribir “num1/num2 “ resultado
+		FinSi
+        
